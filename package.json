@@ -1,0 +1,24 @@
+{
+  "name": "dodatok_team-tea",
+  "version": "1.0.0",
+  "description": "text or email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helpelrog/Dodatok_Team-tea.git"
+  },
+  "dependencies": {
+    "apktea88n77": "^1.0.0",
+    "product_team-aps": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helpelrog/Dodatok_Team-tea/issues"
+  },
+  "homepage": "https://github.com/helpelrog/Dodatok_Team-tea#readme"
+}
